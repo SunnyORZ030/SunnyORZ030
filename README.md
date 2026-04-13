@@ -1,10 +1,10 @@
 # Yu Hsuan Lee (Sunny Lee)｜Profile
 
-> Backend-focused Software Engineer Intern building practical, maintainable tools with **Python** and **SQL**.
+> Full-Stack Software Engineer Intern building practical web applications with **JavaScript/TypeScript**, **Python**, and **SQL**.
 
 ## About Me
-- **Role:** Software Engineer Intern (Backend)
-- **Interests:** backend development, data organization, automation, and building reliable internal tools
+- **Role:** Software Engineer Intern (Full-Stack)
+- **Interests:** full-stack web development, data organization, automation, and building reliable internal tools
 - **Core strengths:** clear data modeling, clean project structure, and shipping features that make information easier to use
 
 ## Education
@@ -14,7 +14,13 @@
 
 ## Tech Stack
 **Languages**
-- Python, SQL
+- JavaScript, TypeScript, HTML, CSS, Python, SQL
+
+**Frameworks & Libraries**
+- FastAPI, Node.js, Prisma ORM
+
+**Databases & DevOps**
+- PostgreSQL, Docker
 
 **Tools**
 - Git (GitHub)
@@ -22,12 +28,14 @@
 ## Featured Projects
 ### 1) Birthday_Freebies
 - **Repo:** https://github.com/SunnyORZ030/Birthday_Freebies
-- **What it is:** A backend-oriented project to organize and track birthday freebie offers.
+- **What it is:** A full-stack web app to track and display birthday freebie offers in the Bay Area.
 - **What I built:**
-  - **Categorized** freebie/discount information for easier browsing and future scaling
-  - Added **bilingual (EN/ZH)** support for offer content
+  - **Frontend:** Vanilla HTML/CSS/JavaScript with category and region filters, bilingual (EN/ZH) support
+  - **Backend API:** Python (FastAPI + Uvicorn) serving freebie data via REST endpoints
+  - **Database tooling:** TypeScript + Prisma ORM for schema management and seeding; Node.js script for data sync
+  - **Database:** PostgreSQL, containerized with Docker
   - Implemented **region-based** organization (currently **San Jose**; designed to expand to more regions)
-- **Tech:** Python
+- **Tech:** JavaScript, TypeScript, HTML, CSS, Python (FastAPI), PostgreSQL, Prisma, Docker
 
 ### 2) ConnectBest/chat
 - **Repo:** https://github.com/ConnectBest/chat
