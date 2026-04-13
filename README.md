@@ -28,7 +28,7 @@
 ## Featured Projects
 ### 1) Birthday_Freebies
 - **Repo:** https://github.com/SunnyORZ030/Birthday_Freebies
-- **What it is:** A full-stack web app to track and display birthday freebie offers in the Bay Area.
+- **What it is:** A full-stack web app to track and display birthday freebie offers in the Bay Area (currently focused on **San Jose**).
 - **What I built:**
   - **Frontend:** Vanilla HTML/CSS/JavaScript with category and region filters, bilingual (EN/ZH) support
   - **Backend API:** Python (FastAPI + Uvicorn) serving freebie data via REST endpoints
