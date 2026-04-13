@@ -35,7 +35,7 @@
   - **Database tooling:** TypeScript + Prisma ORM for schema management and seeding; Node.js script for data sync
   - **Database:** PostgreSQL, containerized with Docker
   - Implemented **region-based** organization (currently **San Jose**; designed to expand to more regions)
-- **Tech:** JavaScript, TypeScript, HTML, CSS, Python (FastAPI), PostgreSQL, Prisma, Docker
+- **Tech:** JavaScript, TypeScript, HTML, CSS, Python (FastAPI), Node.js, PostgreSQL, Prisma, Docker
 
 ### 2) ConnectBest/chat
 - **Repo:** https://github.com/ConnectBest/chat
