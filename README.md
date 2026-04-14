@@ -6,9 +6,10 @@
 - **Core strengths:** clear data modeling, clean project structure, and shipping features that make information easier to use
 
 ## Education
-- **San Jose State University** — Software Engineering  
-  **Expected Graduation:** 05/2027  
-  **Location:** San Jose, CA
+- **San José State University** — Master's degree, Software Engineering  
+  Apr 2025 – May 2027
+- **Fu Jen Catholic University** — Bachelor's degree, Computer Science and Information Engineering  
+  Sep 2016 – Jun 2020
 
 ## Tech Stack
 **Languages**
