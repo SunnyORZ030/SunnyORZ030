@@ -40,18 +40,25 @@
 - Assisted senior lab members in collecting and organizing data for model training.
 - Attended seminars to observe research presentations by senior lab members and hear research findings from other labs.
 
-## Tech Stack
-**Languages**
-- Python, C/C++, JavaScript, TypeScript, HTML, CSS, SQL
+## Technical Skills
 
-**Frameworks & Libraries**
-- FastAPI, Node.js, Prisma ORM
+**Programming**
+- Python, C/C++, Java
 
-**Databases & DevOps**
-- PostgreSQL, MongoDB, Docker
+**Web**
+- Backend development, HTML5, CSS3, JavaScript (ES6+), RESTful API, FastAPI, Node.js, Responsive Web Design (RWD), Microservices, API Design, Client-side Rendering, Internationalization (i18n)
+
+**Databases**
+- SQL, PostgreSQL, MongoDB, Redis, Message Queues (RabbitMQ/MQTT)
+
+**Modeling**
+- Database Design, Entity-Relationship (ER) Modeling, Schema Design, SQL Reporting
+
+**Testing & QA**
+- pytest, API Testing (httpx), Test-Case Design, Defect Tracking
 
 **Tools**
-- Git (GitHub)
+- Git, Docker, Docker Compose, CI/CD
 
 ## Featured Projects
 ### 1) Birthday_Freebies
