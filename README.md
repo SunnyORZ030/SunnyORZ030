@@ -1,10 +1,10 @@
 # Yu Hsuan Lee (Sunny Lee)｜Profile
 
-> Full-Stack Software Engineer Intern building practical web applications with **JavaScript/TypeScript**, **Python**, and **SQL**.
+> San Jose State University Software Engineering student building practical web applications with **JavaScript/TypeScript**, **Python**, and **SQL**.
 
 ## About Me
-- **Role:** Software Engineer Intern (Full-Stack)
-- **Interests:** full-stack web development, data organization, automation, and building reliable internal tools
+- **Role:** Software engineering Master Student
+- **Interests:** backend development, data organization, automation, and building reliable internal tools
 - **Core strengths:** clear data modeling, clean project structure, and shipping features that make information easier to use
 
 ## Education
@@ -14,13 +14,13 @@
 
 ## Tech Stack
 **Languages**
-- JavaScript, TypeScript, HTML, CSS, Python, SQL
+- Python, C/C++, JavaScript, TypeScript, HTML, CSS, SQL
 
 **Frameworks & Libraries**
 - FastAPI, Node.js, Prisma ORM
 
 **Databases & DevOps**
-- PostgreSQL, Docker
+- PostgreSQL, MongoDB, Docker
 
 **Tools**
 - Git (GitHub)
