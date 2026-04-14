@@ -13,7 +13,7 @@
 
 ## Work Experience
 
-### System Analyst — 海棠設計 Begonia Design (Full-time)
+### System Analyst — Begonia Design (Full-time)
 *Feb 2023 – Aug 2024 · 1 yr 7 mos · Taiwan, On-site*
 - Delivered backend system design, including database schema and API design, within 1 week per project.
 - Led technical discussions and requirement validation across 5 web application projects, ensuring alignment between system design and implementation.
