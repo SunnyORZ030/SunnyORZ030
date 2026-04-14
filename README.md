@@ -1,9 +1,9 @@
 # Yu Hsuan Lee (Sunny Lee)｜Profile
 
 ## About Me
-- **Role:** Software engineering Master Student
-- **Interests:** backend development, data organization, automation, and building reliable internal tools
-- **Core strengths:** clear data modeling, clean project structure, and shipping features that make information easier to use
+Pursuing a Master's degree in Software Engineering at San José State University (expected May 2027), with a Bachelor's degree in Computer Science and Information Engineering from Fu Jen Catholic University. Academic background emphasizes software development and engineering fundamentals.
+
+Former System Analyst at Begonia Design, where efforts included backend system design, API development, and detailed backend specifications for multiple projects. Collaborated on technical discussions and testing processes to ensure quality and alignment with project requirements. Skilled in CSS, JavaScript, and HTML5, with certifications in Python and Big Data technologies. Dedicated to aligning technological solutions with organizational goals.
 
 ## Education
 - **San José State University** — Master's degree, Software Engineering  
