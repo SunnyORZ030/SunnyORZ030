@@ -1,7 +1,5 @@
 # Yu Hsuan Lee (Sunny Lee)｜Profile
 
-> San Jose State University Software Engineering student building practical web applications with **JavaScript/TypeScript**, **Python**, and **SQL**.
-
 ## About Me
 - **Role:** Software engineering Master Student
 - **Interests:** backend development, data organization, automation, and building reliable internal tools
