@@ -122,7 +122,7 @@ Former **System Analyst** at Begonia Design — led backend system design, API d
 <div align="center">
 
 ### 🎂 Birthday Freebies
-[![Birthday_Freebies](https://github-readme-stats.vercel.app/api/pin/?username=SunnyORZ030&repo=Birthday_Freebies&theme=tokyonight&hide_border=true)](https://github.com/SunnyORZ030/Birthday_Freebies)
+[![Birthday_Freebies](https://github-readme-stats.shion.dev/api/pin/?username=SunnyORZ030&repo=Birthday_Freebies&theme=tokyonight&hide_border=true)](https://github.com/SunnyORZ030/Birthday_Freebies)
 
 </div>
 
@@ -149,7 +149,7 @@ A **full-stack web app** to track and display birthday freebie offers in the Bay
 <div align="center">
 
 ### 💬 ConnectBest / Chat
-[![chat](https://github-readme-stats.vercel.app/api/pin/?username=ConnectBest&repo=chat&theme=tokyonight&hide_border=true)](https://github.com/ConnectBest/chat)
+[![chat](https://github-readme-stats.shion.dev/api/pin/?username=ConnectBest&repo=chat&theme=tokyonight&hide_border=true)](https://github.com/ConnectBest/chat)
 
 </div>
 
@@ -161,8 +161,8 @@ A **chat collaboration project** — my role focused on **backend planning and a
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=SunnyORZ030&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunnyORZ030&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="160" src="https://github-readme-stats.shion.dev/api?username=SunnyORZ030&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="160" src="https://github-readme-stats.shion.dev/api/top-langs/?username=SunnyORZ030&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/>
 
