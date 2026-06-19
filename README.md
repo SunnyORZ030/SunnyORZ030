@@ -16,9 +16,21 @@
 
 ## 👩‍💻 About Me
 
-> Pursuing a **Master's degree in Software Engineering** at San José State University *(expected May 2027)*, with a Bachelor's degree in Computer Science and Information Engineering from Fu Jen Catholic University.
+I build systems that are clean, scalable, and shipped.
 
-Former **System Analyst** at Begonia Design — led backend system design, API development, and authored detailed backend specifications across multiple projects. Skilled in CSS, JavaScript, and HTML5, with certifications in Python and Big Data technologies. Dedicated to aligning technological solutions with organizational goals.
+Currently pursuing my M.S. in Software Engineering at San Jose State University, with coursework in Software Systems Engineering, Enterprise Application Development, and Software Security Technologies — giving me a foundation that spans architecture, distributed systems, and secure code.
+
+My engineering background started in a professional context: as a System Analyst at Digiwin Software, I worked at the intersection of business requirements and technical implementation, translating complex workflows into system solutions. That cross-functional lens shapes how I write software — I think in user impact, not just function calls.
+
+On the project side, I'm building the Birthday Freebies Tracker — a full-stack web app with a FastAPI backend, PostgreSQL database, Docker Compose environment, and Prisma Migrate for schema management. It started as a personal tool; it became a production-grade architecture exercise.
+
+What I bring to an internship:
+→ Backend-first thinking with full-stack reach
+→ Experience shipping in professional, team-based environments
+→ Coursework in distributed systems, enterprise architecture, and application security
+→ Bias toward building things that actually work
+
+Open to Summer 2026 SWE Intern roles. Based in San Jose, CA.
 
 ---
 
