@@ -34,27 +34,27 @@ Former **System Analyst** at Begonia Design — led backend system design, API d
 ## 💼 Work Experience
 
 <details open>
-<summary><b>🏢 System Analyst — Begonia Design</b> &nbsp;|&nbsp; Full-time &nbsp;|&nbsp; Feb 2023 – Aug 2024</summary>
+<summary><b>🏢 Backend Systems Designer — Begonia Design</b> &nbsp;|&nbsp; Full-time &nbsp;|&nbsp; Feb 2023 – Aug 2024</summary>
 
 > 📍 Taiwan · On-site · 1 yr 7 mos
 
-- 🚀 Delivered backend system design (database schema + API design) within **1 week** per project
-- 🤝 Led technical discussions and requirement validation across **5 web application projects**
-- 📄 Authored **37 backend specifications** covering ER models, API endpoints, and workflow mappings
-- ✅ Conducted **10–20 SIT test cases** per release, ensuring zero critical defects before UAT deployment
+- 🚀 Designed backend architectures, database schemas, and API specifications, delivering system designs within one week
+- 🤝 Collaborated with stakeholders and engineering teams across 5 projects to translate business requirements into scalable backend solutions
+- 📄 Produced 37 backend specifications, including ER diagrams, API contracts, and workflow models, accelerating implementation and reducing development ambiguity
+- ✅ Executed system integration testing for 10–20 scenarios per release, maintaining zero critical defects before UAT
 
 </details>
 
 <details open>
-<summary><b>🏢 System Analyst — 鼎新數智股份有限公司</b> &nbsp;|&nbsp; Full-time &nbsp;|&nbsp; Mar 2021 – Feb 2023</summary>
+<summary><b>🏢 Backend Systems Designer — 鼎新數智股份有限公司</b> &nbsp;|&nbsp; Full-time &nbsp;|&nbsp; Mar 2021 – Feb 2023</summary>
 
-> 📍 New Taipei City, Taiwan · On-site · 2 yrs
+> 📍 Taiwan · On-site · 2 yrs
 
-- ⚡ Reduced MES customization project lead time by **20% (3 days)** via onsite requirements assessments
-- 📄 Delivered **61 backend specifications** for MES customization across **7 client projects**
-- 🗄️ Developed **40+ SQL reports** across MySQL, MSSQL, and Oracle — reducing reporting time by **7.5 hrs/week**
-- 🔄 Collaborated cross-functionally (PM, engineers, clients) in Agile sprints for MES-ERP integrations
-- 🏗️ Designed and optimized API specifications, reducing development time by **50%**
+- ⚡ Analyzed and translated business requirements into MES solutions, reducing project lead time by 20%
+- 📄 Produced 61 technical specifications covering backend architectures, API contracts, and workflow designs
+- 🗄️ Developed 40+ SQL reports across MySQL, MSSQL, and Oracle, reducing operational reporting effort by 7.5 hours/week
+- 🔄 Collaborated with PMs, engineers, and clients in Agile sprints to deliver MES-ERP integration projects on schedule
+- 🏗️ Designed API contracts and integration patterns, reduced implementation time by 50%
 
 </details>
 
