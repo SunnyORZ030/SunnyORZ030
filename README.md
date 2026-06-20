@@ -46,7 +46,7 @@ Open to Summer 2026 SWE Intern roles. Based in San Jose, CA.
 ## 💼 Work Experience
 
 <details open>
-<summary><b>🏢 Backend Systems Designer — Begonia Design</b> &nbsp;|&nbsp; Full-time &nbsp;|&nbsp; Feb 2023 – Aug 2024</summary>
+<summary><b>🏢 System Analyst (Backend Systems) — Begonia Design</b> &nbsp;|&nbsp; Full-time &nbsp;|&nbsp; Feb 2023 – Aug 2024</summary>
 
 > 📍 Taiwan · On-site · 1 yr 7 mos
 
@@ -58,7 +58,7 @@ Open to Summer 2026 SWE Intern roles. Based in San Jose, CA.
 </details>
 
 <details open>
-<summary><b>🏢 Backend Systems Designer — 鼎新數智股份有限公司</b> &nbsp;|&nbsp; Full-time &nbsp;|&nbsp; Mar 2021 – Feb 2023</summary>
+<summary><b>🏢 System Analyst (Backend Systems) — 鼎新數智股份有限公司</b> &nbsp;|&nbsp; Full-time &nbsp;|&nbsp; Mar 2021 – Feb 2023</summary>
 
 > 📍 Taiwan · On-site · 2 yrs
 
